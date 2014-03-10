@@ -27,7 +27,7 @@ $ cd Documents
 $ publican create --name=FAQ --version=0.1 --product=eayun-documents --brand=eayun --lang=zh-CN --type=article
 ```
 
-编译: (use FAQ as a example)
+编译: (  use FAQ as a example)
 =======
 
 ```bash
